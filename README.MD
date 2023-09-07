@@ -19,3 +19,11 @@ go run main.go
 ```bash
 upx -9 deviceId_windows_amd64.exe
 ```
+
+## 各平台可执行文件
+
+```plaintext
+output
+ ├── deviceId_darwin_amd64
+ ├── deviceId_linux_amd64
+ └── deviceId_windows_amd64.exe
